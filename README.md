@@ -87,5 +87,5 @@ print(self_intersections)
 
 ## License and Distribution
 
-Geospatial-Data-Validator is distributed by daameya under the terms of the {type of license you choose} License. See
+Geospatial-Data-Validator is distributed by daameya under the terms of the MIT License. See
 [LICENSE](LICENSE) in this directory for more information.
